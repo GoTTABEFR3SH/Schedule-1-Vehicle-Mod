@@ -6,7 +6,7 @@ A MelonLoader mod for Schedule 1 that displays detailed vehicle statistics for t
 
 ## Current Features
 
-- In-game GUI window showing real-time vehicle stats for your current vehicle:
+- In-game GUI window showing real-time vehicle stats for your current vehicle: (Toggled via F4)
   - Top Speed
   - Diff Gearing
   - Hand Brake Force
