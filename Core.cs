@@ -14,7 +14,7 @@ namespace Schedule1_Test_Mod
         private DebugGUI _debugGUI = new DebugGUI();
         public override void OnInitializeMelon()
         {
-            LoggerInstance.Msg("Holy shit we fucking did it boys");
+            LoggerInstance.Msg("Vehicle Mod Loaded");
             new VehicleModifier();
             new DebugGUI();
             HarmonyInstance.PatchAll(System.Reflection.Assembly.GetExecutingAssembly());
