@@ -1,6 +1,6 @@
 # Schedule 1 Vehicle Mod
 
-> ⚠️ **Work in Progress** — This mod is being developed purely for fun. Use it at your own risk. Expect bugs, breaking changes, and general chaos.
+> ⚠️ **Work in Progress** — This mod is being developed purely for fun. Use it at your own risk. Expect bugs, breaking changes, or maybe even game crashes.
 
 A MelonLoader mod for Schedule 1 that displays detailed vehicle statistics for the car the player is currently in.
 
