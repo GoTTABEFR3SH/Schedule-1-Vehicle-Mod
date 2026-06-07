@@ -15,9 +15,9 @@ A MelonLoader mod for Schedule 1 that displays detailed vehicle statistics for t
 
 ## Preview
 
-![Mod Preview](preview.png)
+![Mod Preview](preview.png)(preview2.png)
 
-> *Place your screenshot here — add `preview.png` to the root of the repo*
+
 
 ## Future Plans
 
